@@ -148,7 +148,3 @@ transform: translateX(-100%);
 input:checked + label {
 background-color: var(--hover);
 }
-
-label:active:after {
-width: 45px;
-}
