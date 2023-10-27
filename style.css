@@ -33,6 +33,11 @@ body.dark {
   margin: 60px auto;
 }
 
+#content
+{
+  margin-top: 10%;
+}
+
 img {
   width: 100%;
 }
